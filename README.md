@@ -1,10 +1,10 @@
 <img src="banner.svg" alt="GitHub Banner" width="100%" />
 
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg)
+[![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg)](https://mbmanish.com/)
 
-🌸 Explore my personal projects in my [portfolio](https://mbmanish.com/)
+🍃 Explore my personal projects in my [portfolio](https://mbmanish.com/)&nbsp;&nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
 
-⭐ If you enjoyed any of my projects, consider leaving a **star** and contributing to help make them even better!
+⭐ If you enjoyed any of my projects, consider leaving a **star** and contributing to help make them even better! 
 
 # 💻 Technologies:
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)

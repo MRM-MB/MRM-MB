@@ -1,16 +1,23 @@
-## Hi there 👋
+<img src="banner.svg" alt="GitHub Banner" width="100%" />
 
-<!--
-**MRM-MB/MRM-MB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg)
 
-Here are some ideas to get you started:
+🌸 Explore my personal projects in my [portfolio](https://mbmanish.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ If you enjoyed any of my projects, consider leaving a star and contributing to help make them even better!
+
+
+# 💻 Technologies:
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender2.svg)

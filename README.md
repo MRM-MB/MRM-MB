@@ -7,16 +7,14 @@
 ⭐ If you enjoyed any of my projects, consider leaving a **star** and contributing to help make them even better!
 
 # 💻 Technologies:
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender2.svg)

@@ -19,4 +19,7 @@
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg)
   ![]([https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg))

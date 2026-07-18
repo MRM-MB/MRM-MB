@@ -4,7 +4,7 @@
 
 🌸 Explore my personal projects in my [portfolio](https://mbmanish.com/)
 
-⭐ If you enjoyed any of my projects, consider leaving a star and contributing to help make them even better!
+⭐ [![Leave a Star](https://img.shields.io/badge/⭐-Leave%20a%20Star-FFD700?style=for-the-badge)](https://github.com/yourusername)
 
 
 # 💻 Technologies:
